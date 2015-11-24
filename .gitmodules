@@ -1,3 +1,4 @@
 [submodule "Gocdtest"]
 	path = Gocdtest
 	url = https://github.com/padmam/Gocdtest
+	branch = stable
