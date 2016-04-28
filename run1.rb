@@ -4,3 +4,4 @@ Module1.helloworld("Hero")
 
 puts 7 * 3
 puts 8 * 9
+puts "try now"
