@@ -2,4 +2,3 @@
 
 ls -al
 echo
-mvn clean
