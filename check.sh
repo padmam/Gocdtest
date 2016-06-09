@@ -2,7 +2,7 @@
 
 if [ [$ENV_VAR != 1] ]
 then
-sleep 10s
+sleep 1m
 else
 exit
 fi
