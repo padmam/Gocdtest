@@ -4,3 +4,4 @@ v3 = v1 + v2
 puts v1
 puts v2
 puts v3
+puts "result"
